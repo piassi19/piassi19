@@ -1,6 +1,11 @@
-## Hi there 👋
+# Bem vindo ao meu perfil!
 
-<!--
+Meu nome é **Marjoroie Piassi**
+
+* Sou aluna da matéria **Tecnologia e Inovação* da rede estadual de ensino
+* Estou cursando um curso com base na linguagem javascript, na biblioteca p5js, fornecido pela plataforma AluraStart.
+* 
+
 **piassi19/piassi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
